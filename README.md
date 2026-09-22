@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Kathirvelan Kannan! 👋
+# Hi there, I'm Kathirvelan! 👋
   
 ### 🎓 CS & Engineering Student | 💻 Full-Stack Developer | 🧠 Problem Solver
 
