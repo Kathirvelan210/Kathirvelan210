@@ -66,17 +66,17 @@
 
 ## 🚀 Featured Projects
 
-### 💳 [NeoWallet](#) *(Add Link)*
+### 💳 [NeoWallet](https://github.com/iamneo-production-4/cfdc2c0a-e882-447d-bf58-809dd525e701-4004deb2-30c6-44a3-bc86-3fa4628180d0)
 > **A full-stack E-Wallet Management System for secure digital transactions.**
 - **Tech Stack:** `React.js` `Spring Boot` `MySQL` `REST API` `JWT`
 - **Key Features:** User authentication, wallet creation, balance management, real-time deposits, fund transfers, and transaction history.
 
-### 🗑️ [SmartBinX](#) *(Add Link)*
-> **An IoT-based Smart Bin Monitoring System powered by multiple sensors.**
+### 💡 [Smart Classroom Energy Saver](https://github.com/Kathirvelan210/Smart-classroom-Energy-Saver)
+> **An IoT-based monitoring and energy automation system.**
 - **Tech Stack:** `ESP32` `C/C++` `Spring Boot` `React.js` `MySQL` `Blynk`
-- **Key Features:** Real-time waste-level tracking, gas detection, temperature monitoring, motion detection, smart alerts, and a live web dashboard.
+- **Key Features:** Environmental monitoring, motion detection, smart automated alerts, real-time data tracking, and a live web dashboard.
 
-### 🛠️ [AlbedO.dev](#) *(Add Link)*
+### 🛠️ [AlbedO.3](https://github.com/Kathirvelan210/AlbedO.3)
 > **A suite of browser-based developer utilities built for speed and efficiency.**
 - **Tech Stack:** `React` `Vite` `Tailwind CSS` `React Router`
 
