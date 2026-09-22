@@ -1,86 +1,96 @@
-<h1 align="center">Hi there, I'm Kathirvelan! 👋</h1>
-<h3 align="center">Computer Science & Engineering Student | Full-Stack Developer</h3>
+<div align="center">
+  
+# Hi there, I'm Kathirvelan Kannan! 👋
+  
+### 🎓 CS & Engineering Student | 💻 Full-Stack Developer | 🧠 Problem Solver
+
+<a href="https://github.com/Kathirvelan210">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=I+build+scalable+web+applications;I+love+Data+Structures+and+Algorithms;Exploring+AWS,+DevOps,+and+Testing;Turning+ideas+into+practical+projects!" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+</div>
+
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 **Computer Science & Engineering** student passionate about software development and complex problem-solving.
-- 💻 I enjoy building robust applications using **Java, Spring Boot, React, and Python**.
-- 🧠 Currently strengthening my **Data Structures & Algorithms** (DSA) and foundational logic.
-- ☁️ Exploring cloud infrastructure with **AWS, Docker, DevOps, and Cloud Computing**.
+- 🎓 **Computer Science & Engineering** student deeply passionate about software development.
+- 💻 I specialize in building applications using **Java, Spring Boot, React, and Python**.
+- 🧠 Actively strengthening my **Data Structures & Algorithms** and problem-solving skills.
+- ☁️ Currently exploring **AWS, Docker, DevOps, and Cloud Computing**.
 - 🧪 Expanding my knowledge in **Software Testing, Selenium, and Automation**.
-- 🚀 I thrive on turning abstract ideas into practical, scalable projects while continuously learning new technologies.
+- 🚀 I thrive on turning complex ideas into practical, real-world projects.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Programming Languages**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
 
-**Frontend Development**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+**Programming Languages**<br>
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" /><br><br>
 
-**Backend & Database**  
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" /><br><br>
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
+**Backend & Database**<br>
+<img src="https://skillicons.dev/icons?i=spring,mysql,nodejs" /><br><br>
 
-**Testing & Tools**  
-![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Cloud, DevOps & Tools**<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,selenium" />
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Features | Tech Stack |
-| :--- | :--- | :--- | :--- |
-| 💳 **[NeoWallet](https://github.com/Kathirvelan210/NeoWallet)** | A full-stack E-Wallet Management System for handling digital transactions seamlessly. | Auth, Balance Management, Fund Transfers, Transaction History | `React.js` `Spring Boot` `MySQL` `JWT` |
-| 🗑️ **[SmartBinX](https://github.com/Kathirvelan210/SmartBinX)** | An IoT-based Smart Bin Monitoring System utilizing multiple hardware sensors. | Waste Level, Gas & Temp Monitoring, Motion Detection, Smart Alerts | `ESP32` `Spring Boot` `React.js` `Blynk` |
-| 🛠️ **[AlbedO.dev](https://github.com/Kathirvelan210/AlbedO.dev)** | A comprehensive collection of browser-based utilities for modern developers. | Fast compilation, Responsive UI, Accessible tools | `React` `Vite` `Tailwind` |
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kathirvelan210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kathirvelan210&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kathirvelan210&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathirvelan210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
 
-### 🧠 Problem Solving & DSA
+## 🚀 Featured Projects
 
-I consistently practice Data Structures & Algorithms to refine my logical thinking. Key focus areas include:
+### 💳 [NeoWallet](#) *(Add Link)*
+> **A full-stack E-Wallet Management System for secure digital transactions.**
+- **Tech Stack:** `React.js` `Spring Boot` `MySQL` `REST API` `JWT`
+- **Key Features:** User authentication, wallet creation, balance management, real-time deposits, fund transfers, and transaction history.
 
-`Arrays` 🔹 `Strings` 🔹 `Hashing` 🔹 `Two Pointers` 🔹 `Sliding Window` 🔹 `Stack & Queue` 🔹 `Linked Lists` 🔹 `Recursion` 🔹 `Backtracking` 🔹 `Binary Search` 🔹 `Trees` 🔹 `Graphs` 🔹 `Dynamic Programming`
+### 🗑️ [SmartBinX](#) *(Add Link)*
+> **An IoT-based Smart Bin Monitoring System powered by multiple sensors.**
+- **Tech Stack:** `ESP32` `C/C++` `Spring Boot` `React.js` `MySQL` `Blynk`
+- **Key Features:** Real-time waste-level tracking, gas detection, temperature monitoring, motion detection, smart alerts, and a live web dashboard.
+
+### 🛠️ [AlbedO.dev](#) *(Add Link)*
+> **A suite of browser-based developer utilities built for speed and efficiency.**
+- **Tech Stack:** `React` `Vite` `Tailwind CSS` `React Router`
 
 ---
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+## 🧠 Problem Solving & DSA
 
-### 🎯 Current Focus Focus
+I regularly solve problems and participate in coding challenges. My focus areas include:
+
+`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window` `Stack & Queue` `Linked Lists` `Recursion` `Backtracking` `Binary Search` `Trees` `Graphs` `Dynamic Programming`
+
+---
+
+## 🎯 Current Focus
 
 ```text
 Java                 ███████████████████░░  90%
